@@ -1,2 +1,3 @@
 # ERSCT
-Elden Ring Saves Change Tool
+艾爾登法環存檔轉換器
+使用說明:

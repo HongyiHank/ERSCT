@@ -1,0 +1,11 @@
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\ERSCT.exe.config
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\ERSCT.exe
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\ERSCT.pdb
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ERSCT.Properties.Resources.resources
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ERSCT.exe
+C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ERSCT.pdb

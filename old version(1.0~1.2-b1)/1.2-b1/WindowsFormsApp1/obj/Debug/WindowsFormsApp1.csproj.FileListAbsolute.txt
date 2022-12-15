@@ -9,14 +9,3 @@ C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF
 C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\wench\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\bin\Debug\ERSCT.exe.config
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\bin\Debug\ERSCT.exe
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\bin\Debug\ERSCT.pdb
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\obj\Debug\ERSCT.Properties.Resources.resources
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\obj\Debug\ERSCT.exe
-C:\Users\wench\Downloads\ERSCT-1.2-b1\ERSCT-1.2-b1\WindowsFormsApp1\obj\Debug\ERSCT.pdb

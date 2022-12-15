@@ -43,7 +43,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "清除當前存檔";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.One);
+            this.button1.Click += new System.EventHandler(this.OnTest);
             // 
             // button2
             // 

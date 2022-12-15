@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Windows.Forms;
-using static System.IO.Path;
 
 namespace WindowsFormsApp1
 {
@@ -11,30 +10,29 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-        private void ExecuteBatFile(string filename)
-        {
-            string path = Combine(Environment.CurrentDirectory, "cmd", filename);
-            Process.Start(path);
-        }
 
-        private void One(object sender, EventArgs e)
+        private void OnTest(object sender, EventArgs e)
         {
-            ExecuteBatFile("1.bat");
+            string path = System.IO.Path.Combine(Environment.CurrentDirectory, "cmd", "1.bat");
+            Process.Start(path);
         }
 
         private void Two(object sender, EventArgs e)
         {
-            ExecuteBatFile("2.bat");
+            string path = System.IO.Path.Combine(Environment.CurrentDirectory, "cmd", "2.bat");
+            Process.Start(path);
         }
 
         private void Three(object sender, EventArgs e)
         {
-            ExecuteBatFile("3.bat");
+            string path = System.IO.Path.Combine(Environment.CurrentDirectory, "cmd", "3.bat");
+            Process.Start(path);
         }
 
         private void Four(object sender, EventArgs e)
         {
-            ExecuteBatFile("4.bat");
+            string path = System.IO.Path.Combine(Environment.CurrentDirectory, "cmd", "4.bat");
+            Process.Start(path);
         }
 
         private void Exit(object sender, EventArgs e)

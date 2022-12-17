@@ -20,11 +20,13 @@ namespace WindowsFormsApp1
         private void One(object sender, EventArgs e)
         {
             ExecuteBatFile("1.bat");
+            MessageBox.Show("完成", "清除當前存檔");
         }
 
         private void Two(object sender, EventArgs e)
         {
             ExecuteBatFile("2.bat");
+            MessageBox.Show("完成", "轉換存檔");
         }
 
         private void Three(object sender, EventArgs e)

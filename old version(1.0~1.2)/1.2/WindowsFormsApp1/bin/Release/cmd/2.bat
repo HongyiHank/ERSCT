@@ -1,5 +1,3 @@
-c:
-
 cd %USERPROFILE%/AppData/Roaming
 
 if not exist "EldenRing" mkdir "EldenRing"

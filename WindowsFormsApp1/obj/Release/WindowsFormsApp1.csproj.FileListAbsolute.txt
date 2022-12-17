@@ -31,3 +31,14 @@ C:\Users\wench\Downloads\ERSCT-main_2\ERSCT-main\WindowsFormsApp1\obj\Release\Wi
 C:\Users\wench\Downloads\ERSCT-main_2\ERSCT-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\wench\Downloads\ERSCT-main_2\ERSCT-main\WindowsFormsApp1\obj\Release\ERSCT.exe
 C:\Users\wench\Downloads\ERSCT-main_2\ERSCT-main\WindowsFormsApp1\obj\Release\ERSCT.pdb
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\bin\Release\ERSCT.exe.config
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\bin\Release\ERSCT.exe
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\bin\Release\ERSCT.pdb
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\obj\Release\ERSCT.Properties.Resources.resources
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\obj\Release\ERSCT.exe
+C:\Users\wench\Downloads\ERSCT-main\ERSCT-main\WindowsFormsApp1\obj\Release\ERSCT.pdb

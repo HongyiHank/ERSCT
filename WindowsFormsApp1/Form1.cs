@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Drawing;
 using System.Windows.Forms;
 using static System.IO.Path;
 
@@ -46,6 +47,26 @@ namespace WindowsFormsApp1
             {
                 this.Close();
             }
+        }
+
+        private void MOON(object sender, EventArgs e)
+        {
+            Color buttonColor = button1.BackColor == SystemColors.Control ? SystemColors.ControlDark : SystemColors.Control;
+            button1.BackColor = buttonColor;
+            button2.BackColor = buttonColor;
+            button3.BackColor = buttonColor;
+            button4.BackColor = buttonColor;
+            button5.BackColor = buttonColor;
+
+            Color formColor = this.BackColor == Color.Black ? Color.White : Color.Black;
+            this.BackColor = formColor;
+
+            Color buttonTextColor = button1.ForeColor == Color.DeepSkyBlue ? Color.White : Color.DeepSkyBlue;
+            button1.ForeColor = buttonTextColor;
+            button2.ForeColor = buttonTextColor;
+            button3.ForeColor = buttonTextColor;
+            button4.ForeColor = buttonTextColor;
+            button5.ForeColor = buttonTextColor;
         }
     }
 }

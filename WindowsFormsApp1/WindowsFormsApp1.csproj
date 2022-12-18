@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Elden_Ring_cover.ico" />
+    <None Include="Resources\EN.png" />
     <None Include="Resources\MOON.png" />
     <None Include="Resources\img.png" />
   </ItemGroup>

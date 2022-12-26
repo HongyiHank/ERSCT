@@ -1,5 +1,5 @@
 # 艾爾登法環存檔轉換工具
-本工具經過多款防毒軟體測試，確認無毒
+Windows 安全中心會報毒，但此軟體絕對無毒，可放心使用
 
 若有任何疑問請寄Email:doubleh@hongyihanksblog.ml
 # 使用說明

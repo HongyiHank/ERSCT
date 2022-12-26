@@ -83,8 +83,7 @@ namespace WindowsFormsApp1
             cmd.StartInfo.UseShellExecute = false;
             cmd.Start();
 
-            cmd.StandardInput.WriteLine("cd %AppData%");
-            cmd.StandardInput.WriteLine("start EldenRing");
+            cmd.StandardInput.WriteLine("start %USERPROFILE%/AppData/Roaming/EldenRing");
             cmd.StandardInput.Flush();
             cmd.StandardInput.Close();
             cmd.WaitForExit();

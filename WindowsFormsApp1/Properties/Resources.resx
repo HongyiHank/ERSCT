@@ -121,10 +121,13 @@
   <data name="img" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="EN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="MOON" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MOON.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="EN" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\EN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="move64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\move64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
